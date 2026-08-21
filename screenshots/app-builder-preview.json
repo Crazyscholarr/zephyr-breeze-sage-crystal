@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Framebox",
+      "hasCanvas": false,
+      "bodyTextLen": 768,
+      "bodyTextHash": "3c5a72a1d0e8801ab92ef1b02f139d42507c2479130b3b8d709ad14b6d6eb476",
+      "bodyTextPrefix": "Framebox Tải hàng loạt video Bilibili FRAMEBOX Dán liên kết vào,",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Framebox",
+      "hasCanvas": false,
+      "bodyTextLen": 739,
+      "bodyTextHash": "e3776108bb74fc330d22dc901b75c63b8c65cae7b4e5b644faacef2795ca80bf",
+      "bodyTextPrefix": "Framebox FRAMEBOX Dán liên kết vào, tải cả loạt một lần. Nhận li",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
